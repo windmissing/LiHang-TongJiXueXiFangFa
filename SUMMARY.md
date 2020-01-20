@@ -11,3 +11,5 @@
     * [梯度下降法的算法过程](Chapter2/6.md)
     * [梯度下降法的推导过程](Chapter2/7.md)
 * [第3章 k近邻算法](Chapter3/KNN.md)
+    * [模型三要素](Chapter3/1.md)
+    * [构造平衡kd树](Chapter3/2.md)
