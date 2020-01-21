@@ -13,3 +13,4 @@
 * [第3章 k近邻算法](Chapter3/KNN.md)
     * [模型三要素](Chapter3/1.md)
     * [构造平衡kd树](Chapter3/2.md)
+    * [用kd树的k近邻搜索](Chapter3/3.md)
