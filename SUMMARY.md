@@ -14,3 +14,7 @@
     * [模型三要素](Chapter3/1.md)
     * [构造平衡kd树](Chapter3/2.md)
     * [用kd树的k近邻搜索](Chapter3/3.md)
+* [第4章 朴素贝叶期](Chapter4/NaiveteBayes.md)
+    * [模型公式的推导](Chapter4/1.md)
+    * [策略公式的推导](Chapter4/2.md)
+    * [算法过程](Chapter4/3.md)
