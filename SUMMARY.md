@@ -22,4 +22,5 @@
 * [第5章 决策树](Chapter5/DecisionTree.md)
     * [决策树的模型](Chapter5/1.md)
     * [信息增益的算法](Chapter5/2.md)
-    * [ID3算法](Chapter5/3.md)
+    * [ID3决策树的生成算法](Chapter5/3.md)
+    * [C4.5决策树的生成算法](Chapter5/4.md)
