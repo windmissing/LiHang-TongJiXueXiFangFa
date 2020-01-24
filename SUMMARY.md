@@ -19,3 +19,7 @@
     * [策略公式的推导](Chapter4/2.md)
     * [最大似然估计算法过程](Chapter4/3.md)
     * [贝叶斯估计算法过程](Chapter4/4.md)
+* [第5章 决策树](Chapter5/DecisionTree.md)
+    * [决策树的模型](Chapter5/1.md)
+    * [信息增益的算法](Chapter5/2.md)
+    * [ID3算法](Chapter5/3.md)
