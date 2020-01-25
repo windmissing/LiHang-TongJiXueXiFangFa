@@ -15,3 +15,5 @@
 ## 算法
 
 ID3、C4.5、CART
+
+CART：classification and regression tree

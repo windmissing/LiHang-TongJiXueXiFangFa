@@ -24,3 +24,6 @@
     * [信息增益的算法](Chapter5/2.md)
     * [ID3决策树的生成算法](Chapter5/3.md)
     * [C4.5决策树的生成算法](Chapter5/4.md)
+    * [决策树的剪枝算法](Chapter5/5.md)
+* [第5章 CART决策树](Chapter5/CART.md)
+    * [CART树的生成](Chapter/6.md)
