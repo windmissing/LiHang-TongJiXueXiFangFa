@@ -8,3 +8,4 @@
 
 二分类逻辑回归模型 binomail model
 多分类逻辑回归模型multi-nomial model
+最大熵模型 maximum model

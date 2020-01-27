@@ -31,3 +31,4 @@
 * [第6章 逻辑回归](Chapter6/LogisticRegression.md)
     * [二分类逻辑回归模型](Chapter6/1.md)
     * [多分类逻辑回归模型](Chapter6/2.md)
+    * [最大熵原理](Chapter6/3.md)
