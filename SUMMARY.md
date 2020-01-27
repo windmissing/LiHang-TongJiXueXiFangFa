@@ -27,3 +27,4 @@
     * [决策树的剪枝算法](Chapter5/5.md)
 * [第5章 CART决策树](Chapter5/CART.md)
     * [CART树的生成](Chapter/6.md)
+    * [CART树的剪枝](Chapter/7.md)
