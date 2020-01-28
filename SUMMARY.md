@@ -32,3 +32,6 @@
     * [二分类逻辑回归模型](Chapter6/1.md)
     * [多分类逻辑回归模型](Chapter6/2.md)
     * [最大熵原理](Chapter6/3.md)
+    * [最大熵模型](Chapter6/4.md)
+    * [最大熵的学习过程](Chapter6/5.md)
+    * [根据最大熵的学习过程学习最大熵模型](Chapter6/6.md)
