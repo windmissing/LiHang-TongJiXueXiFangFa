@@ -9,3 +9,7 @@
 二分类逻辑回归模型 binomail model
 多分类逻辑回归模型multi-nomial model
 最大熵模型 maximum model
+
+[?]拉格朗日对偶问题的求解还不懂？
+[?]6.2.4的一些术语不懂
+[?]这一章不知道怎么编程
