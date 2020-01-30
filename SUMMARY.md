@@ -42,3 +42,4 @@
     * [IIS算法公式（1）推导](Chapter6/9.md)
     * [$$A(\delta|w)$$和$$B(\delta|w)$$推导](Chapter9/10.md)
     * [拟牛顿法](Chapter6/11.md)
+* [第7章 支持向量机](Chapter7/svm.md)
