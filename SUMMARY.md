@@ -41,3 +41,4 @@
     * [改进的迭代尺度法（IIS）](Chapter6/8.md)
     * [IIS算法公式（1）推导](Chapter6/9.md)
     * [$$A(\delta|w)$$和$$B(\delta|w)$$推导](Chapter9/10.md)
+    * [拟牛顿法](Chapter6/11.md)
