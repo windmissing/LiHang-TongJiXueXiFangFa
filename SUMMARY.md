@@ -43,3 +43,5 @@
     * [$$A(\delta|w)$$和$$B(\delta|w)$$推导](Chapter9/10.md)
     * [拟牛顿法](Chapter6/11.md)
 * [第7章 支持向量机](Chapter7/svm.md)
+    * [函数间隔与几何间隔](Chapter7/1.md)
+    * [线性可分SVM](Chapter7/2.md)
