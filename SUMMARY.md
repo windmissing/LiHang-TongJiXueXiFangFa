@@ -45,3 +45,5 @@
 * [第7章 支持向量机](Chapter7/svm.md)
     * [函数间隔与几何间隔](Chapter7/1.md)
     * [线性可分SVM](Chapter7/2.md)
+    * [凸二次规划问题推导](Chapter7/3.md)
+    * [凸二次规划问题求解](Chapter7/4.md)
