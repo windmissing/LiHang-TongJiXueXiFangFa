@@ -52,3 +52,4 @@
 * [第7章 线性SVM](Chapter7/7.md)
     * [原始问题转换为对偶最优化问题](Chapter7/8.md)
     * [根据 a* 求 w* 和 b*](Chapter7/9.md)
+    * [支持向量](Chapter7/10.md)
