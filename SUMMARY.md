@@ -49,3 +49,4 @@
     * [支持向量](Chapter7/4.md)
     * [凸二次规划问题求解](Chapter7/5.md)
     * [原始问题转换为对偶最优化问题](Chapter7/6.md)
+    * [线性SVM](Chapter7/7.md)
