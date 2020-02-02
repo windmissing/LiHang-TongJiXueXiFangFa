@@ -53,3 +53,5 @@
     * [原始问题转换为对偶最优化问题](Chapter7/8.md)
     * [根据 a* 求 w* 和 b*](Chapter7/9.md)
     * [支持向量](Chapter7/10.md)
+* [第7章 非线性SVM](Chapter7/11.md)
+    * [核函数与核技巧](Chapter7/12.md)
