@@ -55,3 +55,4 @@
     * [支持向量](Chapter7/10.md)
 * [第7章 非线性SVM](Chapter7/11.md)
     * [核函数与核技巧](Chapter7/12.md)
+    * [核技巧在SVM中的应用](Chapter7/13.md)
