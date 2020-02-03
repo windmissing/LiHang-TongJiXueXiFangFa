@@ -59,3 +59,4 @@
     * [7.3.2 正定核](Chapter7/14.md)
     * [常用的核函数](Chapter7/15.md)
 * [第7章 序列最小最优化算法](Chapter7/smo.md)
+    * [选择变量](Chapter7/16.md)
