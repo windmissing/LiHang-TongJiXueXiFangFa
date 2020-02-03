@@ -57,3 +57,4 @@
     * [核函数与核技巧](Chapter7/12.md)
     * [核技巧在SVM中的应用](Chapter7/13.md)
     * [7.3.2 正定核](Chapter7/14.md)
+    * [常用的核函数](Chapter7/15.md)
