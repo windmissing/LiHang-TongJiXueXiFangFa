@@ -60,3 +60,4 @@
     * [常用的核函数](Chapter7/15.md)
 * [第7章 序列最小最优化算法](Chapter7/smo.md)
     * [选择变量](Chapter7/16.md)
+    * [推导1](Chapter7/17.md)
