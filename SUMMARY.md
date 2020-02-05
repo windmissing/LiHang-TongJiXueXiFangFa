@@ -65,3 +65,4 @@
     * [推导3](Chapter7/19.md)
     * [推导4](Chapter7/20.md)
     * [推导5：update b](Chapter7/21.md)
+* [第8章 提升方法](Chapter8/boosting.md)
