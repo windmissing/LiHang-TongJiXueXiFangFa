@@ -29,9 +29,9 @@ L(a_1, a_2) = f(1,1)+2f(1,2)+f(2,2) \\
 其中：
 f(i, j) = a_ia_jy_iy_jK(x_i,x_j)
 $$
-3. 根据$$a_1$$和$$a_2$$的关系，消息公式（2）中的变量$$a_1$$，留下变量$$a_2$$，得到公式（3）[link]()  
-4. 公式（3）对$$a_2$$求导，并令导数为0，得到$$a_2$$的值。  
-5. 第4步得到的$$a_2$$没有考虑到公式（1）的限制条件，需要对$$a_2$$做一些修剪  
+3. 根据$$a_1$$和$$a_2$$的关系，消息公式（2）中的变量$$a_1$$，留下变量$$a_2$$，得到公式（3）[link](https://windmising.gitbook.io/lihang-tongjixuexifangfa/smo/18)  
+4. 公式（3）对$$a_2$$求导，并令导数为0，得到$$a_2$$的值[link](https://windmising.gitbook.io/lihang-tongjixuexifangfa/smo/19)。  
+5. 第4步得到的$$a_2$$没有考虑到公式（1）的限制条件，需要对$$a_2$$做一些修剪[link](https://windmising.gitbook.io/lihang-tongjixuexifangfa/smo/20)  
 6. 根据$$a_2$$得到$$a_1$$  
 7. 根据新的$$a_1$$和$$a_2$$更新b  
 8. 回到第1步

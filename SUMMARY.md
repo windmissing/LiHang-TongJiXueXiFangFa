@@ -62,3 +62,5 @@
     * [选择变量](Chapter7/16.md)
     * [推导1](Chapter7/17.md)
     * [推导2](Chapter7/18.md)
+    * [推导3](Chapter7/19.md)
+    * [推导4](Chapter7/20.md)
