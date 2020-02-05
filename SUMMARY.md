@@ -61,3 +61,4 @@
 * [第7章 序列最小最优化算法](Chapter7/smo.md)
     * [选择变量](Chapter7/16.md)
     * [推导1](Chapter7/17.md)
+    * [推导2](Chapter7/18.md)
