@@ -33,5 +33,8 @@ $$
 4. 公式（3）对$$a_2$$求导，并令导数为0，得到$$a_2$$的值[link](https://windmising.gitbook.io/lihang-tongjixuexifangfa/smo/19)。  
 5. 第4步得到的$$a_2$$没有考虑到公式（1）的限制条件，需要对$$a_2$$做一些修剪[link](https://windmising.gitbook.io/lihang-tongjixuexifangfa/smo/20)  
 6. 根据$$a_2$$得到$$a_1$$  
-7. 根据新的$$a_1$$和$$a_2$$更新b  
-8. 回到第1步
+$$
+a_1 = \frac {-\xi - a_2y_2}{y_1}
+$$
+7. 根据新的$$a_1$$和$$a_2$$更新b[link](https://windmising.gitbook.io/lihang-tongjixuexifangfa/smo/21)  
+8. 回到第1步，直至没有a可以更新
