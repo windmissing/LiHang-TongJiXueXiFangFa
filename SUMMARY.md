@@ -66,3 +66,4 @@
     * [推导4](Chapter7/20.md)
     * [推导5：update b](Chapter7/21.md)
 * [第8章 提升方法](Chapter8/boosting.md)
+    * [adaboosting算法](Chapter8/1.md)
