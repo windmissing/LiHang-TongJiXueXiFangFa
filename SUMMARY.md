@@ -72,3 +72,5 @@
     * [前向分步算法](Chapter8/4.md)
     * [adaboost一种特殊的加法模型](Chapter8/5.md)
 * [第8章 提升树](Chapter8/BoostingTree.md)
+    * [回归问题提升树的推导](Chapter8/6.md)
+    * [回归问题提升树前向分步算法](Chapter8/7.md)
