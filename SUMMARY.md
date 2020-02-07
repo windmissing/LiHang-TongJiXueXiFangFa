@@ -69,3 +69,4 @@
     * [算法过程](Chapter8/1.md)
     * [训练误差分析](Chapter8/2.md)
     * [加法模型](Chapter8/3.md)
+    * [前向分步算法](Chapter8/4.md)
