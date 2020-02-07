@@ -68,3 +68,4 @@
 * [第8章 adaboost](Chapter8/adaboost.md)
     * [算法过程](Chapter8/1.md)
     * [训练误差分析](Chapter8/2.md)
+    * [加法模型](Chapter8/3.md)
