@@ -70,3 +70,5 @@
     * [训练误差分析](Chapter8/2.md)
     * [加法模型](Chapter8/3.md)
     * [前向分步算法](Chapter8/4.md)
+    * [adaboost一种特殊的加法模型](Chapter8/5.md)
+* [第8章 提升树](Chapter8/BoostingTree.md)
