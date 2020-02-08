@@ -74,3 +74,4 @@
 * [第8章 提升树](Chapter8/BoostingTree.md)
     * [回归问题提升树的推导](Chapter8/6.md)
     * [回归问题提升树前向分步算法](Chapter8/7.md)
+    * [一般决策问题梯度提升算法](Chapter8/8.md)
