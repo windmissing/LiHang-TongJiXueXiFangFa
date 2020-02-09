@@ -33,3 +33,9 @@ $$B(\delta|w)$$的推导
 
 10. [原始问题转换为对偶最优化问题](https://windmising.gitbook.io/lihang-tongjixuexifangfa/2/6)  
 公式（5）代入公式（3）怎么得到公式（6）
+
+11. [训练误差分析](https://windmising.gitbook.io/lihang-tongjixuexifangfa/adaboost/2)  
+公式（5）怎么得到公式（6）
+
+12. [7.3.2 正定核](https://windmising.gitbook.io/lihang-tongjixuexifangfa/11/14)  
+这一节从3开始就看不懂了，很多术语不懂  
