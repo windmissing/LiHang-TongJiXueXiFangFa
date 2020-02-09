@@ -77,3 +77,4 @@
     * [一般决策问题梯度提升算法](Chapter8/8.md)
 * [第9章 EM算法](Chapter8/em.md)
     * [算法过程](Chapter8/1.md)
+    * [Q函数的推导](Chapter8/2.md)
