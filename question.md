@@ -1,0 +1,35 @@
+1. [学习策略的推导](https://windmising.gitbook.io/lihang-tongjixuexifangfa/perceptron/1)  
+公式（5） -> 公式（6），是怎么把||w||去掉的？
+
+2. [梯度下降法的收敛证明](https://windmising.gitbook.io/lihang-tongjixuexifangfa/perceptron/4)  
+公式（7），怎么证明$$\hat w_0 \cdot \hat w_{opt} \ge 0$$？
+
+3. CS229里面说感知机算法没有数学依据？
+
+4. [决策树的剪枝算法](https://windmising.gitbook.io/lihang-tongjixuexifangfa/decisiontree/5)  
+只实际了递归算法，怎么用DP实现？
+
+5. [CART树的剪枝](https://windmising.gitbook.io/lihang-tongjixuexifangfa/cart/7)  
+这个算法一点都没看懂  
+
+6. [$$A(\delta|w)$$和$$B(\delta|w)$$推导]
+$$A(\delta|w)$$的推导   
+(https://windmising.gitbook.io/lihang-tongjixuexifangfa/option/10)  
+公式（3）怎么推导到公式（4）  
+
+7. [$$A(\delta|w)$$和$$B(\delta|w)$$推导]
+(https://windmising.gitbook.io/lihang-tongjixuexifangfa/option/10)  
+$$B(\delta|w)$$的推导 
+**一次只优化其中一个变量$$\delta_i$$，而固定其它变量$$\delta_j,i \neq j$$**，得：  
+【？】是一只优化一个$$w_i$$还是一个$$\delta_i$$？
+【？】如果是只优化一个$$w_i$$，为什么不能直接假设其它$$\delta_j=0$$？  
+【？】如果是只优化一个$$\delta_i$$，为什么算法6.1步骤2-(b)只更新一个$$w_i$$？
+
+8. [拟牛顿法](https://windmising.gitbook.io/lihang-tongjixuexifangfa/option/11)
+算法没看懂  
+
+9. [线性可分SVM](https://windmising.gitbook.io/lihang-tongjixuexifangfa/2)  
+7.1.3存在性和w的唯一性没看懂
+
+10. [原始问题转换为对偶最优化问题](https://windmising.gitbook.io/lihang-tongjixuexifangfa/2/6)  
+公式（5）代入公式（3）怎么得到公式（6）

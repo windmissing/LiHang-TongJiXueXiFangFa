@@ -40,7 +40,7 @@
 * [第6章 目标函数最优化问题](Chapter6/option.md)
     * [改进的迭代尺度法（IIS）](Chapter6/8.md)
     * [IIS算法公式（1）推导](Chapter6/9.md)
-    * [$$A(\delta|w)$$和$$B(\delta|w)$$推导](Chapter9/10.md)
+    * [A和B的推导](Chapter9/10.md)
     * [拟牛顿法](Chapter6/11.md)
 * [第7章 支持向量机](Chapter7/svm.md)
     * [函数间隔与几何间隔](Chapter7/1.md)
@@ -78,3 +78,4 @@
 * [第9章 EM算法](Chapter9/em.md)
     * [算法过程](Chapter9/1.md)
     * [Q函数的推导](Chapter9/2.md)
+* [遗留问题](question.md)
