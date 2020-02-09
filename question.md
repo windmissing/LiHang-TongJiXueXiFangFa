@@ -31,7 +31,7 @@ $$B(\delta|w)$$的推导
 9. [线性可分SVM](https://windmising.gitbook.io/lihang-tongjixuexifangfa/2)  
 7.1.3存在性和w的唯一性没看懂
 
-10. [原始问题转换为对偶最优化问题](https://windmising.gitbook.io/lihang-tongjixuexifangfa/2/6)  
+10. [原始问题转换为对偶最优化问题](https://windmising.gitbook.io/lihang-tongjixuexifangfa/7/8)  
 公式（5）代入公式（3）怎么得到公式（6）
 
 11. [训练误差分析](https://windmising.gitbook.io/lihang-tongjixuexifangfa/adaboost/2)  
