@@ -1,6 +1,3 @@
-1. [学习策略的推导](https://windmising.gitbook.io/lihang-tongjixuexifangfa/perceptron/1)  
-公式（5） -> 公式（6），是怎么把||w||去掉的？
-
 2. [梯度下降法的收敛证明](https://windmising.gitbook.io/lihang-tongjixuexifangfa/perceptron/4)  
 公式（7），怎么证明$$\hat w_0 \cdot \hat w_{opt} \ge 0$$？
 
@@ -39,3 +36,10 @@ $$B(\delta|w)$$的推导
 
 12. [7.3.2 正定核](https://windmising.gitbook.io/lihang-tongjixuexifangfa/11/14)  
 这一节从3开始就看不懂了，很多术语不懂  
+
+13.
+> 感知机学习算法的原始形式和对偶形式与第7章中支持向量机学习算法的原始形式和对偶形式相对应。  
+
+感知机中的对偶与后面算法中的对偶是怎么对应的？
+
+14. 

@@ -35,7 +35,7 @@ $$
 $$
 \begin{cases}
 w_{new} = w_{old} + \eta y_ix_i \\
-b_{new} = b_{old} + y_i
+b_{new} = b_{old} + \eta y_i
 \end{cases} \tag {4}
 $$
 
