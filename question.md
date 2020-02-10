@@ -7,7 +7,7 @@
 只实际了递归算法，怎么用DP实现？
 
 5. [CART树的剪枝](https://windmising.gitbook.io/lihang-tongjixuexifangfa/cart/7)  
-这个算法一点都没看懂  
+为什么算法2步要强调自下而上计算g(t)？既然要把所有的a求出来，先算哪个结点的a应该不影响结果。    
 
 6. [$$A(\delta|w)$$和$$B(\delta|w)$$推导]
 $$A(\delta|w)$$的推导   
@@ -42,4 +42,5 @@ $$B(\delta|w)$$的推导
 
 感知机中的对偶与后面算法中的对偶是怎么对应的？
 
-14. 
+14. [用kd树的k近邻搜索](https://windmising.gitbook.io/lihang-tongjixuexifangfa/knn/3)  
+这种搜索方法办能搜最近邻，算法求能搜出k近邻，怎么从最近邻得到k近邻？  
