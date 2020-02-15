@@ -86,4 +86,6 @@
 * [第10章 隐马尔可夫模型](Chapter10/hmm.md)
     * [定义](Chapter10/1.md)
     * [概率计算问题 - 直接计算法](Chapter10/2.md)
+    * [概率计算问题 - 前向算法](Chapter10/3.md)
+    * [概率计算问题 - 后向算法](Chapter10/4.md)
 * [遗留问题](question.md)
