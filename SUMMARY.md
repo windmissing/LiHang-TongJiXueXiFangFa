@@ -85,4 +85,5 @@
     * [推导2](Chapter9/6.md)
 * [第10章 隐马尔可夫模型](Chapter10/hmm.md)
     * [定义](Chapter10/1.md)
+    * [概率计算问题 - 直接计算法](Chapter10/2.md)
 * [遗留问题](question.md)
