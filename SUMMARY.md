@@ -83,4 +83,6 @@
     * [高斯混合模型参数估计的EM算法](Chapter9/4.md)
     * [Q函数推导](Chapter9/5.md)
     * [推导2](Chapter9/6.md)
+* [第10章 隐马尔可夫模型](Chapter10/hmm.md)
+    * [定义](Chapter10/1.md)
 * [遗留问题](question.md)
