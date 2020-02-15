@@ -4,7 +4,7 @@
 github地址：https://github.com/windmissing/LiHang-TongJiXueXiFangFa  
 PDF地址：https://pan.baidu.com/s/1Mk_O71k-H8GHeaivWbzM-Q 密码：adep  
 
-
+<html>
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.css">
 <script src="https://cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.min.js"></script>
 <div id="gitalk-container"></div>
@@ -18,3 +18,4 @@ var gitalk = new Gitalk({
   "distractionFreeMode": false  
 });
 gitalk.render("gitalk-container");
+</html>
