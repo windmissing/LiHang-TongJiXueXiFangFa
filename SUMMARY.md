@@ -95,4 +95,6 @@
     * [预测问题 - 近似算法](Chapter10/9.md)
     * [预测问题 - 维特比算法](Chapter10/10.md)
     * [维特比算法推导过程](Chapter10/11.md)
+* [第11章 条件随机场](Chapter11/crf.md)
+    * [概率无向图模型](Chapter11/1.md)
 * [遗留问题](question.md)
