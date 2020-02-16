@@ -93,4 +93,6 @@
     * [Baum - Welch算法推导](Chapter10/7.md)
     * [推导1](Chapter10/8.md)
     * [预测问题 - 近似算法](Chapter10/9.md)
+    * [预测问题 - 维特比算法](Chapter10/10.md)
+    * [维特比算法推导过程](Chapter10/11.md)
 * [遗留问题](question.md)
