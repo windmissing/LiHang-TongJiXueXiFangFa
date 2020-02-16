@@ -43,3 +43,4 @@ $$B(\delta|w)$$的推导
 
 14. 9.4节，数据基础不够，看不懂。先去补补数学基础吧。  
 
+15. [后向算法](https://windmising.gitbook.io/lihang-tongjixuexifangfa/hmm/4)的初值是怎么来的？

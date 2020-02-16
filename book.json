@@ -1,5 +1,5 @@
 { 
-    "plugins" : ["mygitalk"], 
+    "plugins" : ["mygitalk","mathjax"], 
     "pluginsConfig": 
     { 
         "mygitalk": 
@@ -11,5 +11,5 @@
             "admin": ["windmissing"], 
             "distractionFreeMode": false 
         } 
-    } 
+    }
 }
