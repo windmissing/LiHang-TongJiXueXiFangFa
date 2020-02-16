@@ -90,4 +90,7 @@
     * [概率计算问题 - 后向算法](Chapter10/4.md)
     * [学习问题 - 监督学习](Chapter10/5.md)
     * [学习问题 - 非监督学习](Chapter10/6.md)
+    * [Baum - Welch算法推导](Chapter10/7.md)
+    * [推导1](Chapter10/8.md)
+    * [预测问题 - 近似算法](Chapter10/9.md)
 * [遗留问题](question.md)
