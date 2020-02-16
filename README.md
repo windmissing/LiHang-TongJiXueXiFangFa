@@ -10,13 +10,12 @@ PDF地址：https://pan.baidu.com/s/1Mk_O71k-H8GHeaivWbzM-Q 密码：adep
 <div id="gitalk-container"></div>
 <script>
 var gitalk = new Gitalk({
-  "clientID": "clientId",
-  "clientSecret": "clientSecret",
-  "repo": "GitHub repo",
-  "owner": "GitHub repo owner",
-  "admin": ["GitHub repo admin"],
-  "id": location.pathname,      
-  "distractionFreeMode": false  
+    "clientID": "6ab19427624e1d7b6ad3",
+    "clientSecret": "954c66d48ee5dfaaf87921490015b9f7e42cb5e4", 
+    "repo": "LiHang-TongJiXueXiFangFa", 
+    "owner": "windmissing", 
+    "admin": ["windmissing"], 
+    "distractionFreeMode": false 
 });
 gitalk.render("gitalk-container");
 </script>
