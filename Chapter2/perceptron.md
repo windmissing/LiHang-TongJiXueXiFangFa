@@ -12,10 +12,10 @@ $$
 \begin{aligned}
 f(x) = \text{sign}(w \cdot x + b)   \\
 \text{sign} = 
-\begin{cases}
+\begin{aligned}
  +1, && x \ge 0 \\
  -1, && x \lt 0
- \end{cases}
+ \end{aligned}
 \end{aligned}
 $$
 
@@ -35,10 +35,10 @@ $$
 学习模型的具体方法  
 感知机使用随机梯度下降法  
 $$
-\begin{cases}
+\begin{aligned}
 w_{new} = w_{old} + \eta y_ix_i \\
 b_{new} = b_{old} + \eta y_i
-\end{cases}
+\end{aligned}
 $$
 
 【？】CS229里面说感知机算法没有数学依据

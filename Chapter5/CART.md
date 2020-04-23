@@ -19,8 +19,10 @@ $$
 
 选择第j个特征$$x^{(j)}$$和它的取值s：  
 $$
+\begin{aligned}
 R_1(j, s) = \{x | x^{(j)} \le s\}  \\
 R_2(j, s) = \{x | x^{(j)} \gt s\}
+\end{aligned}
 $$
 
 ## 策略

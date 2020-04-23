@@ -8,12 +8,14 @@
 ## 模型
 
 $$
+\begin{aligned}
 f(x) = sign(\sum_{j=1}^m a_jy_jx_j \cdot x + b)   \\
 sign(x) = 
 \begin{cases}
  +1, && x \ge 0 \\
  -1, && x \lt 0
  \end{cases}
+\end{aligned}
 $$
 其中，m为样本数，n为样本的特征数
 
@@ -35,5 +37,5 @@ $$
 \begin{cases}
 a_{new} = a_{old} + \eta \\
 b_{new} = b_{old} + \eta y_i
-\end{cases} \tag {4}
+\end{cases}
 $$
