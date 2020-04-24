@@ -6,9 +6,11 @@ SMO，sequential minimal optimization
 
 SMO用于解决非线性支持向量机的对偶问题：  
 $$
+\begin{aligned}
 \min_a \quad \sum_{i=1}^N\sum_{j=1}^Na_ia_jy_iy_jK(x_i, x_j) - \sum_{i=1}^Na_i  \\
 s.t. \quad \sum_{i=1}^Na_iy_i=0
-\quad \quad 0 \le a_i \le C, i=1,2,\cdots,N   \tag {1}
+\quad \quad 0 \le a_i \le C, i=1,2,\cdots,N   && {1}
+\end{aligned}
 $$
 
 ## SMO的原理
@@ -23,10 +25,15 @@ $$
 1. 选择两个变量[link](https://windmising.gitbook.io/lihang-tongjixuexifangfa/smo/16)，假设两个变量为$$a_1$$和$$a_2$$  
 2. 把公式（1）中的变量$$a_1$$、$$a_2$$和常量分开来写[link](https://windmising.gitbook.io/lihang-tongjixuexifangfa/smo/17)，成为公式（2）  
 $$
+\begin{aligned}
 L(a_1, a_2) = f(1,1)+2f(1,2)+f(2,2) \\
 +2\sum_{j=3}^Nf(1,j) +2\sum_{j=3}^Nf(2,j) \\
--a_1 - a_2 + 常数项\tag {2}
+-a_1 - a_2 + \text{常数项}&& {2}
+\end{aligned}
+$$
+
 其中：
+$$
 f(i, j) = a_ia_jy_iy_jK(x_i,x_j)
 $$
 3. 根据$$a_1$$和$$a_2$$的关系，消息公式（2）中的变量$$a_1$$，留下变量$$a_2$$，得到公式（3）[link](https://windmising.gitbook.io/lihang-tongjixuexifangfa/smo/18)  

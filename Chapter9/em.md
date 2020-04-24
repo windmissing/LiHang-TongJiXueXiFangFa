@@ -15,8 +15,10 @@ X为观测数据，Y为未观测数据。
 
 极大化观测数据（不完全数据）Y关于参数$$\theta$$的对数似然函数，即极大化：  
 $$
+\begin{aligned}
 L(\theta) = \log P(Y|\theta) = \log\sum_zP(Y,Z|\theta) \\
 = \log(\sum_Z P(Y|Z, \theta)P(Z|\theta))
+\end{aligned}
 $$
 
 # 算法
