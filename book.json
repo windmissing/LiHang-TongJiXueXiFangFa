@@ -11,7 +11,6 @@
         "github-buttons",
         "splitter",
         "-sharing", "sharing-plus",
-
         "copy-code-button",
         "anchor-navigation-ex",
         "sectionx",
@@ -32,7 +31,8 @@
             "url": "https://github.com/windmissing/LiHang-TongJiXueXiFangFa"
         },
         "github-buttons": {
-            "repo": "windmissing/LiHang-TongJiXueXiFangFa",
+            "user": "windmissing",
+            "repo": "LiHang-TongJiXueXiFangFa",
             "types": [
                 "star",
                 "watch",
